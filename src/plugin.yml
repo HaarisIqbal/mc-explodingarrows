@@ -1,5 +1,5 @@
-name: OverpoweredMobs
-version: 1.2
-author: Volcifire
-main: me.volcifier.opmobs.Main
-description: Copying a plugin made by Dream, where zombies, skeletons and creepers are made overpowered.
+name: ExplodingArrows
+version: 1.0
+author: Haaris(Volcifire)
+main: com.haarisiqbal.explodingarrows.Main
+description: All arrows in the game will trigger an explosion upon collision.
